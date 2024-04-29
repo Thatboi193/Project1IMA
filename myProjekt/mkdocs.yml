@@ -1,0 +1,5 @@
+site_name: 1IMA projekt
+
+nav:
+  - Home: index.md
+  - About: about.md
