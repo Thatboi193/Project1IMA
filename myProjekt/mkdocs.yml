@@ -3,3 +3,5 @@ site_name: 1IMA projekt
 nav:
   - Home: index.md
   - About: about.md
+  - Servers: Servers.md
+  - PC: pc.md
