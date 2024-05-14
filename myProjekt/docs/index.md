@@ -1,14 +1,3 @@
 # Welcome to My Documentation
 
-
-
-
-
-
-
-## Project layout
-    myProjekt/
-        mkdocs.yml  # The configuration file.
-        docs/
-            index.md  # The documentation homepage.
-            about.md  # About Us
+Here you will find all the work that has been done on the projekt
