@@ -1,4 +1,5 @@
 site_name: 1IMA projekt
+site_author: Tor Vidar Arnesen
 
 nav:
   - Home: index.md

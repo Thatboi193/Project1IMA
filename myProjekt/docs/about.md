@@ -1,6 +1,8 @@
 # About Us
-### We are, IT Experts AS
+<br>
 
+## We are, IT Experts AS
+<br>
 
 ## About Us: Empowering Businesses with Streamlined IT Solutions
 
