@@ -34,7 +34,7 @@ Ready to Take the Next Step?
 
 We invite you to schedule a meeting with our team to discuss your specific needs and customize a solution that propels your development process forward. Let us demonstrate the power of IT solutions designed to make your business thrive.
 
-<a>Contact Us
+<a href="https://thatboi193.github.io/Project1IMA/contactus/">Contact Us </a>
 
 For more information or to schedule a meeting, please visit our website or contact us directly.
 
