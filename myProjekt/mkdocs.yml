@@ -1,6 +1,12 @@
 site_name: 1IMA projekt
 site_author: Tor Vidar Arnesen
 
+theme:
+  name: mkdocs
+  color_mode: auto
+  nav_style: primary
+  user_color_mode_toggle: on
+
 nav:
   - Home: index.md
   - About: about.md
@@ -9,3 +15,4 @@ nav:
   - Contact Us: contactus.md
   - Offer: Offer.md
   - Log: log.md
+

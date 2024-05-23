@@ -14,8 +14,11 @@
 14.05 Jobbet mer på på offer
 <br>
 15.05 Jobbet mer på nettsiden prøvde meg mer på DC men fikk ikke til all tingene jeg ville.
-
 <br>
+16.05 Jobbet mer på på nettsiden
+<br>
+21.05 Jobbet mer på nettsiden la til lys og mørk modus
+
 
 **Hint:** Click or use the mouse wheel to zoom, drag to pan. Be sure to try viewing it full page - just hover over the image and click the toggle button at the top left of the viewer.
 

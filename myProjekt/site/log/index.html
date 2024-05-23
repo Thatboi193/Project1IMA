@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-bs-theme="light">
+<html lang="en" data-bs-theme="auto">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,7 +15,7 @@
         <link href="../css/solid.min.css" rel="stylesheet">
         <link href="../css/v4-font-face.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
-        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" disabled>
         <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
         <script>hljs.highlightAll();</script> 
@@ -73,10 +73,40 @@
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
+                            <li class="nav-item dropdown">
+                              <button id="theme-menu" aria-expanded="false" data-bs-toggle="dropdown" data-bs-display="static" aria-label="Toggle theme" class="nav-link dropdown-toggle">
+                                <i class="fa-solid fa-circle-half-stroke fa-fw"></i>
+                                <span class="d-lg-none ms-2">Toggle theme</span>
+                              </button>
+                              <ul class="dropdown-menu dropdown-menu-end">
+                                <li>
+                                  <button class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+                                    <i class="fa-solid fa-sun fa-fw"></i>
+                                    <span class="ms-2">Light</span>
+                                    <i class="fa-solid fa-check ms-auto d-none"></i>
+                                  </button>
+                                </li>
+                                <li>
+                                  <button class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+                                    <i class="fa-solid fa-moon fa-fw"></i>
+                                    <span class="ms-2">Dark</span>
+                                    <i class="fa-solid fa-check ms-auto d-none"></i>
+                                  </button>
+                                </li>
+                                <li>
+                                  <button class="dropdown-item d-flex align-items-center" data-bs-theme-value="auto" aria-pressed="true">
+                                    <i class="fa-solid fa-circle-half-stroke fa-fw"></i>
+                                    <span class="ms-2">Auto</span>
+                                    <i class="fa-solid fa-check ms-auto"></i>
+                                  </button>
+                                </li>
+                              </ul>
+                            </li>
                     </ul>
                 </div>
             </div>
         </div>
+        <script src="../js/darkmode.js"></script>
 
         <div class="container">
             <div class="row">
@@ -115,8 +145,11 @@
 <br>
 14.05 Jobbet mer på på offer
 <br>
-15.05 Jobbet mer på nettsiden prøvde meg mer på DC men fikk ikke til all tingene jeg ville.</p>
-<p><br></p>
+15.05 Jobbet mer på nettsiden prøvde meg mer på DC men fikk ikke til all tingene jeg ville.
+<br>
+16.05 Jobbet mer på på nettsiden
+<br>
+21.05 Jobbet mer på nettsiden la til lys og mørk modus</p>
 <p><strong>Hint:</strong> Click or use the mouse wheel to zoom, drag to pan. Be sure to try viewing it full page - just hover over the image and click the toggle button at the top left of the viewer.</p>
 <p><br></p>
 <iframe src="https://srv2.zoomable.ca/viewer.php?i=img33edd8ea40625088_1IMA_Projekt#zoom=0.8&x=0.5&y=0.35" width="800" height="650" frameborder="0" style="border:0" allowfullscreen></iframe></div>
